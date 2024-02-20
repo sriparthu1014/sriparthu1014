@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Advance DevOps - Zero to Hero (15 July 2023)**
 
-- 📝 I regularly write articles on [https://hashnode.com/@sriparthu1014](https://hashnode.com/@sriparthu1014)
+- 📝 I regularly write articles on [https://sriparthu1014.hashnode.dev/](https://sriparthu1014.hashnode.dev/)
 
 - 💬 Ask me about **Linux , Git&Github , Docker , Jenkins , Kubernetes , AWS CCP , Teraform , Grafana , Prometheus , Mega project**
 
